@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+target/
+*hash*
+outputDirectory/
+tmpDirectory/
+buyer.*
+case.*
+good.*
+order.*
+s1/
+s2/
+s3/
+
